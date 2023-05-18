@@ -41,10 +41,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
+<<<<<<< HEAD
         title: 'Hóa đơn điện tử VNPT',
         logo: {
           alt: 'VNPT',
           src: 'img/VNPT_Logo.png',
+=======
+        title: 'VNPT Invoice HDSD',
+        logo: {
+          alt: 'VNPT Invoice',
+          src: 'img/logo.svg',
+>>>>>>> 6bf4eb5abfcaa731c476a47eee52a3c909613d96
         },
         items: [
           {
@@ -68,7 +75,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Hướng dẫn',
             items: [
               {
+<<<<<<< HEAD
                 label: 'Hóa đơn điện tử máy tính tiền',
+=======
+                label: 'Hóa đơn máy tính tiền',
+>>>>>>> 6bf4eb5abfcaa731c476a47eee52a3c909613d96
                 to: '/docs/intro',
               },
             ],
