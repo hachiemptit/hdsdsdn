@@ -41,9 +41,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'VNPT Invoice HDSD',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'VNPT Invoice',
           src: 'img/logo.svg',
         },
         items: [
@@ -68,7 +68,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Hóa đơn máy tính tiền',
                 to: '/docs/intro',
               },
             ],
