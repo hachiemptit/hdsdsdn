@@ -77,7 +77,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             title: 'Liên hệ',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'Hà Văn Chiêm',
                 href: '#',
               },
               {
