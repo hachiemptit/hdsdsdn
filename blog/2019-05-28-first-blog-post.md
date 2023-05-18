@@ -5,7 +5,7 @@ authors:
   name: Gao Wei
   title: Docusaurus Core Team
   url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
+  image_url: https://avatars.githubusercontent.com/u/133833360?s=400&u=23bb4e064a9c56b1486a4efd8e895f3488e5c008&v=4
 tags: [hola, docusaurus]
 ---
 
